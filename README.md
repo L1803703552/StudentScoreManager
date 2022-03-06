@@ -1,0 +1,2 @@
+# StudentScoreManager
+一个基于C语言实现的简单学生成绩管理系统
